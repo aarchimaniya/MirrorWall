@@ -14,3 +14,14 @@ The Browse Engine App is a powerful browsing application that allows users to na
 No Copying: Do not copy code or any other content from your classmates or any other source. Plagiarism is strictly prohibited and can result in severe consequences, including academic penalties. Ensure that all the code and content in your project are original and properly attributed to the appropriate sources, if applicable.
 
 ## Images:
+
+-<img src="https://github.com/user-attachments/assets/b46ebd4c-17ea-431f-96f8-53191b7230bc" width="250">
+-<img src="https://github.com/user-attachments/assets/e5abdb3b-bee6-4b69-acd3-6d0476b1aea1" width="250">
+-<img src="https://github.com/user-attachments/assets/e2621ccb-ea80-4195-849e-a50721ae125a" width="250">
+-<img src="https://github.com/user-attachments/assets/d22671f1-56a1-4495-a7ea-02d0a3d46762" width="250">
+-<img src="https://github.com/user-attachments/assets/fc808080-99d4-4d6c-b813-8f6d3e82b671" width="250">
+-<img src="https://github.com/user-attachments/assets/545d1d46-2b98-46f3-b545-d0531dabae81" width="250">
+-<img src="https://github.com/user-attachments/assets/e2a32cd9-14c0-4b75-b3f0-f5ba61a3306e" width="250">
+-<img src="https://github.com/user-attachments/assets/4c7685e2-00d0-4405-8955-aeba1e568fb7" width="250">
+-<img src="https://github.com/user-attachments/assets/fb653b6d-91f4-4bd0-9781-bc8df5d3c564" width="250">
+
